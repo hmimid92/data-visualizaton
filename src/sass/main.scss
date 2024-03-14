@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    width: 80vw;
+    height: 80vh;
+  }
+  
+  #tooltip {
+    visibility: hidden;
+    background-color: pink;
+    border-radius: 6px;
+    padding: 10px;
+  }
+  
+  #main {
+    margin-left: 10%;
+  }
+  
+  .pathy,
+  .pathx {
+    font-weight: bolder;
+  }
+  
